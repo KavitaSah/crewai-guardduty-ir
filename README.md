@@ -1,5 +1,6 @@
 # CrewAI GuardDuty IR Agent
 
+<<<<<<< HEAD
 This is a multi-agent AI system using [CrewAI](https://github.com/joaomdmoura/crewai) to automate classification, enrichment, and incident response for AWS GuardDuty alerts.
 
 ## 🧠 What It Does
@@ -51,3 +52,6 @@ docker run --env-file .env crewai-ir
 ## 📜 License
 
 Apache 2.0 - use it, improve it, and give credit ❤️
+=======
+A CrewAI-based agent system for classifying and responding to GuardDuty alerts with Slack integration.
+>>>>>>> 8355246dab3d8d504f5458bc34fee55d9972eac1

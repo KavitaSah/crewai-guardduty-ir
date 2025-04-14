@@ -1,0 +1,5 @@
+{
+  "title": "Recon:EC2/PortProbeUnprotectedPort",
+  "description": "Unprotected port probe detected from external IP.",
+  "severity": 5.3
+}
